@@ -1,0 +1,14 @@
+.replyView .addrBubbleContainer {
+	border:none;
+	background: transparent;
+}
+
+.replyView .addrBubble .ImgBubbleDelete,
+.replyView .addrBubble-selected .ImgBubbleDelete {
+	display: none;
+}
+
+.replyView .addrBubbleContainer.ZFocused {
+	border:none;
+	background: transparent;
+}
